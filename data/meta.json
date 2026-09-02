@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-08-31",
+  "source": "Realty INDEX",
+  "disclaimer": "Данные — атрибуты публичных объявлений. Цены — ЗАПРАШИВАЕМЫЕ (оферта), не цены сделок.",
+  "totals": {
+    "all": 20540,
+    "active": 16355,
+    "active_sale": 14460,
+    "active_rent": 1880
+  },
+  "headline": {
+    "median_sale_usd_m2": 1506,
+    "median_rent_usd_m2_month": 12
+  }
+}
