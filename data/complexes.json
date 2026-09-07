@@ -2,7 +2,7 @@
   {
     "name": "Aalam City",
     "district": "Кара-Жыгач",
-    "n": 180,
+    "n": 184,
     "median_usd_m2": 1441,
     "avg_area": 52.7,
     "p25": 1346,
@@ -11,81 +11,81 @@
   {
     "name": "Нью-Йорк сити (New York city)",
     "district": "Асанбай",
-    "n": 172,
-    "median_usd_m2": 1460,
-    "avg_area": 80.9,
+    "n": 180,
+    "median_usd_m2": 1462,
+    "avg_area": 81.5,
     "p25": 1304,
-    "p75": 1643
+    "p75": 1633
   },
   {
     "name": "Нью Сити( New city)",
     "district": "Асанбай",
-    "n": 130,
-    "median_usd_m2": 1335,
-    "avg_area": 61.2,
-    "p25": 1152,
-    "p75": 1471
+    "n": 136,
+    "median_usd_m2": 1337,
+    "avg_area": 60.9,
+    "p25": 1155,
+    "p75": 1466
   },
   {
     "name": "Esentai (Эсентай)",
     "district": "Тунгуч",
-    "n": 111,
+    "n": 115,
     "median_usd_m2": 1086,
-    "avg_area": 61.1,
+    "avg_area": 61.2,
     "p25": 1008,
-    "p75": 1229
+    "p75": 1236
   },
   {
     "name": "Кап Строй Сити (Capstroy City)",
     "district": "Асанбай",
-    "n": 104,
+    "n": 109,
     "median_usd_m2": 1725,
-    "avg_area": 79.5,
-    "p25": 1431,
-    "p75": 1794
+    "avg_area": 79.4,
+    "p25": 1435,
+    "p75": 1793
   },
   {
     "name": "ЖК Discovery",
     "district": "Асанбай",
-    "n": 98,
-    "median_usd_m2": 1372,
-    "avg_area": 59.6,
-    "p25": 1292,
-    "p75": 1522
+    "n": 104,
+    "median_usd_m2": 1365,
+    "avg_area": 59.8,
+    "p25": 1282,
+    "p75": 1511
   },
   {
     "name": "Tokyo (Токио)",
     "district": null,
-    "n": 95,
-    "median_usd_m2": 1255,
-    "avg_area": 71.9,
-    "p25": 1183,
-    "p75": 1336
+    "n": 100,
+    "median_usd_m2": 1258,
+    "avg_area": 71.6,
+    "p25": 1180,
+    "p75": 1337
   },
   {
     "name": "Арт Сити (Art City)",
     "district": "Асанбай",
-    "n": 88,
+    "n": 90,
     "median_usd_m2": 1582,
-    "avg_area": 66.8,
-    "p25": 1300,
-    "p75": 1843
+    "avg_area": 66.2,
+    "p25": 1303,
+    "p75": 1827
   },
   {
     "name": "Елисейские поля",
     "district": "Асанбай",
-    "n": 80,
-    "median_usd_m2": 1975,
-    "avg_area": 103.6,
-    "p25": 1839,
+    "n": 84,
+    "median_usd_m2": 1967,
+    "avg_area": 103.5,
+    "p25": 1847,
     "p75": 2475
   },
   {
     "name": "Ак Ниет (Ak Niet)",
     "district": "Магистраль",
-    "n": 72,
+    "n": 74,
     "median_usd_m2": 1567,
-    "avg_area": 54.5,
+    "avg_area": 55,
     "p25": 1419,
     "p75": 1638
   }
