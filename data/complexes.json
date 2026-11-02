@@ -2,47 +2,56 @@
   {
     "name": "Нью-Йорк сити (New York city)",
     "district": "Асанбай",
-    "n": 240,
+    "n": 241,
     "median_usd_m2": 1448,
     "avg_area": 81.2,
-    "p25": 1290,
-    "p75": 1611
+    "p25": 1287,
+    "p75": 1610
   },
   {
     "name": "Aalam City",
     "district": "Кара-Жыгач",
-    "n": 234,
+    "n": 235,
     "median_usd_m2": 1453,
-    "avg_area": 53,
-    "p25": 1351,
-    "p75": 1576
+    "avg_area": 52.8,
+    "p25": 1359,
+    "p75": 1601
   },
   {
     "name": "Нью Сити( New city)",
     "district": "Асанбай",
-    "n": 180,
-    "median_usd_m2": 1326,
+    "n": 187,
+    "median_usd_m2": 1330,
     "avg_area": 62.4,
-    "p25": 1133,
-    "p75": 1461
+    "p25": 1150,
+    "p75": 1467
   },
   {
     "name": "Esentai (Эсентай)",
     "district": "Тунгуч",
-    "n": 162,
-    "median_usd_m2": 1075,
-    "avg_area": 61.5,
+    "n": 165,
+    "median_usd_m2": 1086,
+    "avg_area": 61.2,
     "p25": 1000,
-    "p75": 1231
+    "p75": 1238
   },
   {
     "name": "Tokyo (Токио)",
     "district": null,
-    "n": 145,
-    "median_usd_m2": 1255,
+    "n": 148,
+    "median_usd_m2": 1253,
     "avg_area": 71.5,
-    "p25": 1186,
-    "p75": 1343
+    "p25": 1187,
+    "p75": 1344
+  },
+  {
+    "name": "ЖК Discovery",
+    "district": "Асанбай",
+    "n": 144,
+    "median_usd_m2": 1365,
+    "avg_area": 59.1,
+    "p25": 1289,
+    "p75": 1526
   },
   {
     "name": "Кап Строй Сити (Capstroy City)",
@@ -54,22 +63,13 @@
     "p75": 1788
   },
   {
-    "name": "ЖК Discovery",
-    "district": "Асанбай",
-    "n": 141,
-    "median_usd_m2": 1367,
-    "avg_area": 59.2,
-    "p25": 1290,
-    "p75": 1524
-  },
-  {
     "name": "Елисейские поля",
     "district": "Асанбай",
-    "n": 122,
-    "median_usd_m2": 1974,
-    "avg_area": 102.9,
-    "p25": 1851,
-    "p75": 2465
+    "n": 126,
+    "median_usd_m2": 1975,
+    "avg_area": 101.9,
+    "p25": 1857,
+    "p75": 2428
   },
   {
     "name": "Арт Сити (Art City)",
@@ -83,10 +83,10 @@
   {
     "name": "Ак Ниет (Ak Niet)",
     "district": "Кок-Жар",
-    "n": 95,
-    "median_usd_m2": 1560,
-    "avg_area": 54.4,
-    "p25": 1439,
-    "p75": 1648
+    "n": 98,
+    "median_usd_m2": 1562,
+    "avg_area": 54.3,
+    "p25": 1441,
+    "p75": 1664
   }
 ]
